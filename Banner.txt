@@ -1,0 +1,133 @@
+1/10/2017
+
+Banner
+
+Lam Duy Le
+Sign Out
+Lam Duy Le
+
+UC Riverside
+Lam Duy Le Winter 2017 Schedule
+Classification: Sophomore Level: Undergraduate
+College: Bourns Engineering Major: Computer Science
+Department:Computer Science
+Title
+
+Course Details
+
+Units CRN
+
+AUTOMATA AND FORMAL LANGUAGES
+
+CS 150 001
+
+4.0
+
+33248 01/09/2017 - 03/17/2017
+Tuesday, Thursday
+06:40 PM - 08:00 PM
+Riverside, Bourns Hall, A125
+Jiang, Tao
+
+AUTOMATA AND FORMAL LANGUAGES
+
+CS 150 023
+
+0.0
+
+33251 01/09/2017 - 03/17/2017
+Thursday
+08:10 AM - 09:00 AM
+Riverside, CHASS Interdisciplinary-North, 1006
+Fauber, Jacob
+
+CONCURRENT PROGRAMMING AND PARALLEL SYSTEMS
+
+CS 160 001
+
+4.0
+
+33261 01/09/2017 - 03/17/2017
+Monday, Wednesday, Friday
+11:10 AM - 12:00 PM
+Riverside, Winston Chung Hall, 143
+Chen, Zizhong
+
+CONCURRENT PROGRAMMING AND PARALLEL SYSTEMS
+
+CS 160 021
+
+0.0
+
+33262 01/09/2017 - 03/17/2017
+Tuesday
+12:10 PM - 03:00 PM
+Riverside, Winston Chung Hall, 133
+Li, Hongbo
+
+GENERAL PHYSICS
+
+PHYS 040A 001
+
+5.0
+
+38209 01/09/2017 - 03/17/2017
+Tuesday, Thursday
+09:40 AM - 11:00 AM
+Riverside, Physics, 2000
+Siana, Brian
+Beving, Derek
+
+GENERAL PHYSICS
+
+PHYS 040A 007
+
+0.0
+
+38215 01/09/2017 - 03/17/2017
+Friday
+10:10 AM - 11:00 AM
+Riverside, Campus Surge, 173
+The Staff, .
+Siana, Brian
+
+GENERAL PHYSICS
+
+PHYS 040A 108
+
+0.0
+
+38225 01/09/2017 - 03/17/2017
+Monday
+07:10 PM - 10:00 PM
+Riverside, Physics, 2125
+Asaro, Marcus
+Hanson, Gail
+Hayashibara, Leo
+Ree, Robert
+
+INTERMEDIATE DATA STRUCTURES AND ALGORITHMS
+
+CS 141 001
+
+4.0
+
+41154 01/09/2017 - 03/17/2017
+Monday, Wednesday, Friday
+02:10 PM - 03:00 PM
+Riverside, Bourns Hall, A125
+Eldawy, Ahmed
+
+INTERMEDIATE DATA STRUCTURES AND ALGORITHMS
+
+CS 141 022
+
+0.0
+
+41156 01/09/2017 - 03/17/2017
+Monday
+05:10 PM - 06:00 PM
+Riverside, Pierce Hall, 3374
+Fauber, Jacob
+
+https://registrationssb.ucr.edu/StudentRegistrationSsb/ssb/classRegistration/print
