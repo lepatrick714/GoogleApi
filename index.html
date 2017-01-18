@@ -1,23 +1,23 @@
-<!doctype html> 
+<?php
+  if(isset($_FILES['image'])) { 
+    $errors = array(); 
+    $file_name = $_FILES['image']['name']; 
+    $file_tmp = $_FILES['image']['size']; 
+    $file_type = $_FILES['image'][tmp_name'];
+    $file_ext = $strtolower(end(explode('.', $_FILES['image']['name']))); 
+    $max_file_size = 2097152; 
 
-<html lang="en"> 
-<head> 
-    <meta charset="utf-8"> 
-    
-    <title>Unicorn</title> 
+    $expensions = array("jpeg", "pdf"); 
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript"> 
-    <meta name="description" content="UCR RWEB Schedule -> Google Calendar (Using Google's API)"> 
-    <meta name="author" content="Patrick Le"> 
+    if(in_array($file_ext,$expensions)=== false){
+      $error[] = "extension not allowed, Please choose a jpg or pdf file.";  
+    }
+  
+    if($file_size > $max_file_size) {
+      $errors[] = 'FILE SIZE TOO MUCH';
+    }
 
-    <link rel="stylesheet" href="css/main.css?v1.0"> 
-</head> 
 
-<body> 
-    <script src="js/main.js"></script> 
 
-    <h1>Testing</h1> 
-
-</body> 
-</html> 
+  }
+?>
