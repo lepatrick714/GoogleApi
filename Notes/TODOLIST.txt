@@ -1,0 +1,44 @@
+This is my personal To-Do-List for this project. 
+
+In addition, this will be where I shall plan out my project. 
+
+Wednesday, January 11th, 2017
+1. Create Student class 
+    a. List out all private members 
+    b. List out all public members 
+    c. Implement all functions 
+2. Learn the Google Calendar API
+    a. Complete a prototype test
+
+Thursday, January 12th, 2017
+1. Continue to learn Google Calender API
+    a. Test small project types 
+2. Build the Parser to grab the data to create Student objects. 
+
+End of To-Do-List
+
+Notes: 
+
+Student Class 
+    Student's Private Data that can be gathered: 
+        1. Student's name 
+        2. Class Level (Freshman, Sophomore, Junior, Senior) (Undergraduate, Graduate) 
+        3. College 
+        4. Major and Department 
+        5. Quarter Type (Fall, Winter, Spring, Summer) (Year) 
+
+Courses Class
+    Student's Courses Data (IN ORDERED) that can be gathered: 
+        1. Name 
+        2. Section Number
+        3. Unit Count 
+        4. ID
+        5. Quarter Date (Start - End) 
+        6. Days of Classes (M = Monday, T = Tuesday, W = Wednesday, TR = Thursday, F = Friday)
+        7. Times 
+        8. Location 
+        9. Professor Name 
+        
+DaysOfClasses Class
+    DaysOfClasses Data (IN ORDERED) that can be gathered; 
+        1. boolean array of size 7; 

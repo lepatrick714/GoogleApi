@@ -1,0 +1,44 @@
+This is notes for parsers. 
+
+List of Differences: 
+    1. (line 20) Where it says "Meeting Times". 
+    2. For the courses, The can range between 10 lines (One Instructor) to + x amount of Instructors. 
+
+
+Notes: 
+    1. Lectures Details will always come first before any discussions/labs. Template is shown below 
+        
+        0. <Details> 
+        1. 
+        2. <Name> <Section Number> 
+        3. 
+        4. <Unit Count>
+        5. 
+        6. <ID> <Quarter Start - End>
+        7. <Days, Days, etc>
+        8. <Times> 
+        9. <Location> 
+       10. <Instructor> 
+       11. <Extra Instructor> //Continues until there is an empty line. 
+
+    2. Discussions should be the same thing 
+
+    3. Same for Labs
+
+
+PipeLine: 
+
+*schedule.txt -> 
+ParseData.java -> 
+<user_name>_simplified.txt -> 
+construct_objects.java -> 
+//output to webpage for user confirmation or fix -> 
+google_api_call.? -> webpage user complete!
+
+
+
+
+
+
+
+

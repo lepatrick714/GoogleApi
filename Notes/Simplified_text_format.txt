@@ -1,0 +1,15 @@
+Notes 
+
+<full_name> 
+<Quarter Type> 
+<grade_level> 
+<college> 
+<major> 
+<department> 
+
+<course_description> 
+<course_name> 
+<course_section_id>
+<course_units> 
+<coures_id> 
+<coures_active_days> 
