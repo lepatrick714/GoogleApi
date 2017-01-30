@@ -6,4 +6,3 @@ var child;
 child = exec("./testing.sh", function (error, stdout, stderr) {
  	console.log(stdout); 
 });
-
