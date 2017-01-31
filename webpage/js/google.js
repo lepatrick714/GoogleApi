@@ -12,4 +12,34 @@ var SCOPES = "https://www.googleapis.com/auth/calendar.readonly";
 var authorize = document.getElementById('authorize');
 var signout = document.getElementById('signout');
 
+console.log(authorize);
+console.log(signout); 
+
+function handleClientLoad() { 
+  gapi.load('client:auth2', initClient); 
+}
+
+function initClient() { 
+  gapi.client.init({ 
+    discoveryDocs: DISCOVERY_DOCS, 
+    clientId: CLIENT_ID, 
+    scope: SCOPES 
+  }).then(function () {
+    gapi.auth2.getAuthInstance().isSignedIn.listen(updateSigninStatus); 
+
+    updateSigninStatus(gapi.auth2.getAuthInstance().isSignedIn.get());
+    authorize.onclick = handleAuthClick; 
+    signout.onclick = handleSignoutClick; 
+  });
+}
+
+function updateSigninStatus(isSignedIn) { 
+  if(isSignedIn) { 
+    authorize.style.display = 'hidden'; 
+    signout.style.display = 'none'; 
+  } else { 
+      authorize.style.display = 'block'; 
+      signout.style.display = 'none';
+  }
+}
 
